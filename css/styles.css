@@ -1,0 +1,39 @@
+body {
+    background-color: #212529;
+    color: white;
+}
+
+.content-container {
+    background-color: white;
+    color: black;
+    width: 45vw;
+    margin: 5rem auto 5rem auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.shadow-top {
+    -webkit-box-shadow: 0px -7px 6px -3px rgba(88,87,138,1);
+    -moz-box-shadow: 0px -7px 6px -3px rgba(88,87,138,1);
+    box-shadow: 0px -7px 6px -3px rgba(88,87,138,1);
+}
+
+.shadow-bottom {
+    -webkit-box-shadow: 0px 7px 6px -3px rgba(88,87,138,1);
+    -moz-box-shadow: 0px 7px 6px -3px rgba(88,87,138,1);
+    box-shadow: 0px 7px 6px -3px rgba(88,87,138,1);
+}
+
+.container-shadow {
+    -webkit-box-shadow: 0px 7px 107px -3px rgba(88,87,138,1);
+    -moz-box-shadow: 0px 7px 107px -3px rgba(88,87,138,1);
+    box-shadow: 0px 7px 107px -3px rgba(88,87,138,1);
+}
+
+form > input {
+    margin-top: 0.5rem;
+}
+
+.sub {
+    background-color: rgba(88,87,138,1);
+}
